@@ -5,3 +5,4 @@ Forge is a friendship-building app designed to find potential friends for you - 
 
 Start forging friendships now.
 
+![Untitled design (1) (1)](https://user-images.githubusercontent.com/56741687/116945344-50b02300-ac6f-11eb-886a-0a0c8330b55f.png)
